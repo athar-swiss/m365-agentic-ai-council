@@ -372,7 +372,6 @@ Ad-hoc AI usage → ❌ Regulatory risk
 
 **Athar Sheikh**  
 Digital Transformation & AI Specialist | M365 & Agentic AI Expert  
-International Olympic Committee | Lausanne, Switzerland
 
 ### **Expertise**
 - 18 years Microsoft 365 ecosystem experience
@@ -415,7 +414,6 @@ International Olympic Committee | Lausanne, Switzerland
 - **Andrej Karpathy** - Original LLM Council concept
 - **Microsoft** - Copilot Studio platform
 - **OpenAI, Anthropic, Google** - AI model APIs
-- **IOC Digital Transformation Team** - Support and collaboration
 
 ---
 
