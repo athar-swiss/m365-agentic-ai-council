@@ -291,7 +291,7 @@ body('Parse_JSON_Gemini')?['candidates'][0]['content']['parts'][0]['text']
 
 **Total Time:** 11 hours over 2 days  
 **Iterations:** 3 major attempts before success  
-**Key Breakthrough:** Switching from Power Automate to Copilot Studio Flows  
+**Key Breakthrough:** Switching from Power Automate to Microsoft Copilot Studio Agent Flows 
 
 ### **Critical Success Factors**
 
