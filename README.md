@@ -1,5 +1,5 @@
-# 🏛️ M365 Agentic Council
-## Multi-Agent AI Orchestration Framework for Enterprise Decision-Making
+# 🏛️ M365 Agentic AI Council
+## Multi-Agent AI Orchestration Framework for Enterprise Decision-Making 
 
 [![Microsoft Copilot Studio](https://img.shields.io/badge/Built%20with-Copilot%20Studio-0078D4?style=flat-square&logo=microsoft)](https://copilotstudio.microsoft.com)
 [![Agentic AI](https://img.shields.io/badge/Architecture-Multi--Agent-00C2A8?style=flat-square)](https://github.com/atharswiss/m365-agentic-council)
